@@ -201,7 +201,7 @@ a.fa {
         padding: 10px;
     }
 
-    #content {
+    #content-wrap {
         /* Styles for the content in mobile view */
     }
 }
@@ -213,7 +213,7 @@ a.fa {
         padding: 20px;
     }
 
-    #content {
+    #content-wrap {
         /* Styles for the content in desktop view */
     }
 }
