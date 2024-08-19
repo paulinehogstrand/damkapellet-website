@@ -193,28 +193,5 @@ a.fa {
   }
 }
 
-/* text responsiveness style.css */
-@media only screen and (max-width: 767px) {
-    /* Styles for mobile view */
-    body {
-        font-size: 14px;
-        padding: 10px;
-    }
 
-    #content-wrap {
-        /* Styles for the content in mobile view */
-      font-size: 20px;
-    }
-}
-
-@media only screen and (min-width: 768px) {
-    /* Styles for desktop view */
-    body {
-        font-size: 16px;
-        padding: 20px;
-    }
-
-    #content-wrap {
-        /* Styles for the content in desktop view */
-    }
 }
