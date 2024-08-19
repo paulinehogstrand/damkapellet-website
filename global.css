@@ -203,6 +203,7 @@ a.fa {
 
     #content-wrap {
         /* Styles for the content in mobile view */
+      font-size: 20px;
     }
 }
 
